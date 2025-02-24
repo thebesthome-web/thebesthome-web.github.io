@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description"
+          content="The Best Home s.r.o. je stavební firma, která nabízí komplexní služby v oblasti výstavby a rekonstrukce komerčních prostor, rodinných domů a bytů.">
+    <meta name="keywords"
+          content="stavebnictví, rekonstrukce, komerční prostory, stomatologické ordinace, rodinné domy, dekorativní omítky, montáž nábytku, vodoinstalace">
+    <meta name="author" content="https://www.linkedin.com/in/bohdan-poberezhnyi/">
+
+    <title>The Best Home – Stavební firma</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="The Best Home – Služby v oblasti stavebnictví a rekonstrukce">
+    <meta property="og:description"
+          content="The Best Home s.r.o. je stavební firma, která nabízí komplexní služby v oblasti výstavby a rekonstrukce komerčních prostor, rodinných domů a bytů.">
+    <meta property="og:image" content="https://thebesthome.cz/images/bg/1920/home-bg-1920_0.jpg">
+    <meta property="og:url" content="https://thebesthome.cz">
+    <meta property="og:type" content="website">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/manifest.json">
+
+    <link href="https://fonts.googleapis.com/css?family=Lora|Merriweather:300,400" rel="stylesheet">
+</head>
+<body>
+
+<!-- PRE LOADER -->
+<div class="preloader">
+    <div class="sk-spinner sk-spinner-wordpress">
+        <span class="sk-inner-circle"></span>
+    </div>
+</div>
+
+<!-- Navigation section  -->
+<div id="navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <div class="logo-container">
+                <div class="logo">
+                    <img src="logo/logo.png" alt="">
+                </div>
+                <a href="index.html" class="navbar-brand">THE BEST HOME</a>
+            </div>
+
+            <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+                <span class="icon icon-bar"></span>
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="index.html">Služby</a></li>
+                <li><a href="career.html">Kariéra</a></li>
+                <li class="active"><a href="contact.html">Kontakty</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- Home Section -->
+<section id="home" class="main-contact parallax-section">
+    <div class="overlay"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12">
+                <h1>Kontaktujte nás</h1>
+                <h3 class="contact-animate">thebesthomeinfo@gmail.com</h3>
+                <h3 class="contact-animate">+420 777 004 733</h3>
+                <h3 class="contact-animate">+420 777 006 335</h3>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Footer Section -->
+<div id="footer"></div>
+<script>
+    fetch('footer.html')
+        .then(response => response.text())
+        .then(data => document.getElementById('footer').innerHTML = data)
+        .catch(error => console.error('Error loading footer.html:', error));
+</script>
+
+<!-- Back top -->
+<a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
+
+<!-- SCRIPTS -->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.parallax.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>

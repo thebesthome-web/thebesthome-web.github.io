@@ -1,0 +1,11 @@
+LICENSE
+
+This website uses a template from Tooplate:
+Template URL: https://www.tooplate.com/view/2085-neuron
+This template is free to use for both commercial and non-commercial purposes. Redistribution of the template file is not permitted.
+
+Some components of the website code are licensed under the following open-source licenses:
+1. **MIT License** – http://www.opensource.org/licenses/mit-license.php
+2. **GPL License** – http://www.gnu.org/licenses/gpl.html
+
+By using these components, you must comply with the respective license terms.
