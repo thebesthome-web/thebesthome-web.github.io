@@ -83,11 +83,15 @@ a:hover, a:active, a:focus {
 
 #our-services,
 #services,
-#gallery,
 #career,
 #contact {
     padding-top: 60px;
     padding-bottom: 80px;
+}
+
+#gallery {
+    padding-top: 20px;
+    padding-bottom: 60px;
 }
 
 .overlay {
