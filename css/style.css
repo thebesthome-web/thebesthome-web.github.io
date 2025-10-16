@@ -83,10 +83,14 @@ a:hover, a:active, a:focus {
 
 #our-services,
 #services,
-#career,
 #contact {
     padding-top: 60px;
     padding-bottom: 80px;
+}
+
+#career {
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 
 #gallery {
@@ -308,6 +312,11 @@ a:hover, a:active, a:focus {
 }
 
 #line {
+    background: #303642;
+    height: 5px;
+}
+
+#line-1 {
     background: #303642;
     height: 5px;
 }
