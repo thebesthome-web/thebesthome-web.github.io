@@ -83,6 +83,7 @@ a:hover, a:active, a:focus {
 
 #our-services,
 #services,
+#gallery,
 #career,
 #contact {
     padding-top: 60px;
@@ -308,6 +309,55 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
+   Gallery section
+-----------------------------------------*/
+
+#gallery span {
+    display: block;
+    padding-bottom: 20px;
+}
+
+.gallery-text h2 {
+    text-align: center;
+}
+
+.gallery-text {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#gallery .col-md-6 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#gallery .gallery-thumb {
+    background-color: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(90, 91, 95, 0.15);
+    cursor: pointer;
+    display: block;
+    position: relative;
+    top: 0;
+    transition: all 0.4s ease-in-out;
+    padding: 8px;
+}
+
+#gallery .gallery-thumb:hover {
+    box-shadow: 0 16px 22px 0 rgba(90, 91, 95, 0.3);
+    top: -5px;
+}
+
+#gallery .gallery-thumb img {
+    width: 100%;
+}
+
+#gallery .col-md-12 p {
+    padding-top: 22px;
+    text-align: center;
+}
+
+
+/*---------------------------------------
     Home section              
 -----------------------------------------*/
 
@@ -362,6 +412,11 @@ a:hover, a:active, a:focus {
 .main-service {
     background: url('../images/wall.jpg') no-repeat;
     height: 50vh;
+}
+
+.main-gallery {
+    background: url('../images/wall.jpg') no-repeat;
+    height: 40vh;
 }
 
 .main-career {
@@ -684,12 +739,27 @@ footer .footer-copyright {
 -----------------------------------------*/
 
 @media (max-width: 980px) {
+
     .main-career {
         height: 90vh;
     }
 
     .main-contact {
         height: 90vh;
+    }
+
+    .main-gallery {
+        height: 20vh;
+    }
+
+    .gallery-text {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .gallery-text p {
+        padding-left: 30px;
+        padding-right: 30px;
     }
 
     #services .main-service {
@@ -719,6 +789,22 @@ footer .footer-copyright {
 }
 
 @media (max-width: 768px) {
+    .navbar-collapse {
+        width: 100% !important;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        display: block;
+        width: 100%;
+        text-align: center;
+        padding-left: 0;
+        padding-right: 0;
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
+
     #navbar .container {
         flex-direction: column;
         align-items: center;
