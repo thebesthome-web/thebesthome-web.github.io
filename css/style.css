@@ -325,6 +325,23 @@ a:hover, a:active, a:focus {
    Gallery section
 -----------------------------------------*/
 
+.line-tmp {
+    background: #303642;
+    height: 5px;
+
+    /* Full-page bar even if the element is inside a `.container` */
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+
+    display: block;
+    font-size: 0; /* if there's placeholder text, don't show it */
+    line-height: 0;
+
+    /* optional spacing */
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 #gallery span {
     display: block;
     padding-bottom: 20px;
