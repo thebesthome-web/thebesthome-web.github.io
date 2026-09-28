@@ -1,0 +1,266 @@
+[
+  {
+    "title": "Výstavba stomatologické kliniky",
+    "description": "Realizace nové stomatologické kliniky včetně ordinací, komfortních čekáren a technického zázemí.",
+    "photos": [
+      {
+        "src": "images/reference/dentistry/stomatologicka-klinika-cekarny-rekonstrukce-01.JPG",
+        "alt": "Nově realizovaná stomatologická klinika – moderní čekárna"
+      },
+      {
+        "src": "images/reference/dentistry/stomatologicka-ordinace-rekonstrukce-02.JPG",
+        "alt": "Nově realizovaná stomatologická ordinace – čistý a funkční interiér"
+      },
+      {
+        "src": "images/reference/dentistry/stomatologicka-klinika-socialni-zazemi-umyvadla-toaleta.JPG",
+        "alt": "Sociální zázemí nové stomatologické kliniky – moderní WC a umyvadla"
+      },
+      {
+        "src": "images/reference/dentistry/technicke-zazemi-kliniky-rekonstrukce-04.JPG",
+        "alt": "Technické zázemí nové stomatologické kliniky"
+      }
+    ],
+    "id": "klinika",
+    "label": "Klinika"
+  },
+  {
+    "title": "Montáž hrubých rozvodů vody, kanalizace a topení v novostavbách",
+    "description": "Zajišťujeme profesionální montáž hrubých rozvodů vody, kanalizace a topení. Pracujeme podle projektové dokumentace, s důrazem na technickou přesnost, spolehlivost a připravenost pro navazující profese. Dbáme na kvalitu provedení a dodržení dohodnutých termínů.",
+    "photos": [
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-01.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-03.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-02.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-05.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-04.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-06.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-07.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-08.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/plan-montaz-trub-vody-a-topeni-09.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/plan-montaz-trub-vody-a-topeni-10.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-12.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-13.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-14.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-15.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-16.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-17.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-18.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-19.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-20.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      },
+      {
+        "src": "images/reference/pipes/montaz-trub-vody-a-topeni-21.jpg",
+        "alt": "Montáž rozvodů vody, kanalizace a topení"
+      }
+    ],
+    "id": "rozvody",
+    "label": "Rozvody"
+  },
+  {
+    "title": "Montáž kuchyní",
+    "description": "Specializujeme se na montáž kuchyní a nábytku všech typů a náročností. Každý projekt realizujeme s maximální pečlivostí, technickou přesností a citem pro detail. Garantujeme profesionální přístup, kvalitní zpracování a výsledek, který odpovídá vašim očekáváním.",
+    "photos": [
+      {
+        "src": "images/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01.jpg",
+        "alt": "Montáž kuchyně – kuchyň napůl rozebraná (průběh prací)"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01.jpg",
+        "alt": "Montáž kuchyně – kuchyň rozebraná před rekonstrukcí"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02.jpg",
+        "alt": "Montáž kuchyně – kuchyň napůl rozebraná (příprava na montáž)"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-po-montazi-01.jpg",
+        "alt": "Montáž kuchyně – sestavená kuchyňská linka po montáži"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-po-montazi-02.jpg",
+        "alt": "Montáž kuchyně – hotová kuchyňská linka (po montáži)"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-nove-skrinky-01.jpg",
+        "alt": "Montáž kuchyně – nové skříňky a sestavená kuchyňská linka"
+      },
+      {
+        "src": "images/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01.jpg",
+        "alt": "Kočka pomáhá v kuchyni při montáži kuchyňské linky"
+      },
+      {
+        "src": "images/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01.jpg",
+        "alt": "Kočka pomáhá při stavbě kuchyně – průběh montáže"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02.jpg",
+        "alt": "Montáž kuchyně – hotová kuchyňská linka (realizace)"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-pracovni-deska-01.jpg",
+        "alt": "Montáž kuchyně – pracovní deska a finální usazení"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01.jpg",
+        "alt": "Montáž kuchyně – detail kuchyňské linky po dokončení"
+      },
+      {
+        "src": "images/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01.jpg",
+        "alt": "Montáž kuchyně – hotová kuchyňská linka (finální stav)"
+      }
+    ],
+    "id": "kuchyne",
+    "label": "Kuchyně"
+  },
+  {
+    "title": "Rekonstrukce kuchyně a koupelny",
+    "description": "Rekonstrukce kuchyně a koupelny včetně nové kuchyňské linky, obkladů a vybavení. Fotografie zachycují hotové části interiéru.",
+    "photos": [
+      {
+        "src": "images/reference/kitchen-bathroom/rekonstrukce-kuchyne-01.jpg",
+        "alt": "Rekonstrukce kuchyně – nová linka, pracovní deska a varná deska"
+      },
+      {
+        "src": "images/reference/kitchen-bathroom/rekonstrukce-kuchyne-02.jpg",
+        "alt": "Rekonstrukce kuchyně – pohled na kuchyňskou linku a podlahu"
+      },
+      {
+        "src": "images/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05.jpg",
+        "alt": "Rekonstrukce koupelny – umyvadlo, pračka, toaleta a modrý obklad"
+      },
+      {
+        "src": "images/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04.jpg",
+        "alt": "Rekonstrukce koupelny – vana a sprchová zástěna"
+      }
+    ],
+    "id": "kuchyne-koupelna",
+    "label": "Kuchyně a koupelna"
+  },
+  {
+    "title": "Individuální designová řešení",
+    "description": "Dokážeme převést vaše individuální designové představy do reálné podoby interiéru. Každý projekt realizujeme s důrazem na detail, funkčnost a estetiku prostoru. Spolupracujeme také s ověřenými designéry, u kterých si můžete objednat kompletní návrh interiéru na míru.",
+    "photos": [
+      {
+        "src": "images/reference/design/modra-designova-stena-prubeh-praci-01.jpg",
+        "alt": "Dekorativní modrá stěna – průběh práce"
+      },
+      {
+        "src": "images/reference/design/modra-designova-stena-hotovo-02.jpg",
+        "alt": "Dekorativní modrá stěna – hotové designové provedení"
+      },
+      {
+        "src": "images/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03.jpg",
+        "alt": "Designová stěna s podsvícením – začátek realizace"
+      },
+      {
+        "src": "images/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04.jpg",
+        "alt": "Designová stěna s podsvícením – průběh prací"
+      },
+      {
+        "src": "images/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05.jpg",
+        "alt": "Designová stěna s podsvícením – namontovaná světla"
+      },
+      {
+        "src": "images/reference/design/designova-stena-s-podsvicenim-hotovo-06.jpg",
+        "alt": "Designová stěna s podsvícením – hotové provedení"
+      }
+    ],
+    "id": "design",
+    "label": "Interiéry"
+  },
+  {
+    "title": "Profesionální pokládka elektrostatických podlah pro stomatologické kliniky",
+    "description": "Provádíme pokládku elektrostatických podlah s použitím kompletního systémového řešení od elektrostatické samonivelační směsi až po finální elektrostatickou vrchní vrstvu. Provádíme kompletní realizace zdravotnických prostor dle platných hygienických a technických norem.",
+    "photos": [
+      {
+        "src": "images/reference/floors/elektrostaticka-podlaha-penetrace-01.jpg",
+        "alt": "Elektrostatická podlaha – penetrace (gruntování)"
+      },
+      {
+        "src": "images/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02.jpg",
+        "alt": "Elektrostatická podlaha – nalepené elektrostatické pásky"
+      },
+      {
+        "src": "images/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03.jpg",
+        "alt": "Elektrostatická podlaha – hotový podklad (připraveno pro další vrstvu)"
+      },
+      {
+        "src": "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04.jpg",
+        "alt": "Vinylová plovoucí podlaha na elektrostatické podlaze – průběh pokládky"
+      },
+      {
+        "src": "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05.jpg",
+        "alt": "Vinylová plovoucí podlaha na elektrostatické podlaze – montáž (průběh)"
+      },
+      {
+        "src": "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06.jpg",
+        "alt": "Vinylová plovoucí podlaha na elektrostatické podlaze – hotovo"
+      },
+      {
+        "src": "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07.jpg",
+        "alt": "Vinylová plovoucí podlaha na elektrostatické podlaze – hotový výsledek"
+      },
+      {
+        "src": "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08.jpg",
+        "alt": "Vinylová plovoucí podlaha na elektrostatické podlaze – dokončená realizace"
+      }
+    ],
+    "id": "podlahy",
+    "label": "Podlahy"
+  }
+]

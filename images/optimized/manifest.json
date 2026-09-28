@@ -1,0 +1,3746 @@
+{
+  "images/reference/dentistry/stomatologicka-klinika-cekarny-rekonstrukce-01.JPG": {
+    "hash": "9ac19f83b5149f97abc8e74e9ce62ff0d2703988607cb1504867ce39623aa15e",
+    "width": 1600,
+    "height": 899,
+    "originalBytes": 311893,
+    "variants": [
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-cekarny-rekonstrukce-01-480.webp",
+        "width": 480,
+        "height": 269,
+        "bytes": 28752
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-cekarny-rekonstrukce-01-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 83366
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-cekarny-rekonstrukce-01-1600.webp",
+        "width": 1600,
+        "height": 899,
+        "bytes": 201112
+      }
+    ]
+  },
+  "images/reference/dentistry/stomatologicka-ordinace-rekonstrukce-02.JPG": {
+    "hash": "4a9a5142306b8e0473f761a12184ffe46cbb2bdd6e2d4b0701f234bc8a116296",
+    "width": 1600,
+    "height": 899,
+    "originalBytes": 358390,
+    "variants": [
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-ordinace-rekonstrukce-02-480.webp",
+        "width": 480,
+        "height": 269,
+        "bytes": 35336
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-ordinace-rekonstrukce-02-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 104654
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-ordinace-rekonstrukce-02-1600.webp",
+        "width": 1600,
+        "height": 899,
+        "bytes": 260590
+      }
+    ]
+  },
+  "images/reference/dentistry/stomatologicka-klinika-socialni-zazemi-umyvadla-toaleta.JPG": {
+    "hash": "a44b5200409b4a6a3838ecd5275023223dee34850ae2affe1dd112fbefd2cc5f",
+    "width": 1600,
+    "height": 899,
+    "originalBytes": 276491,
+    "variants": [
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-socialni-zazemi-umyvadla-toaleta-480.webp",
+        "width": 480,
+        "height": 269,
+        "bytes": 26734
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-socialni-zazemi-umyvadla-toaleta-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 73902
+      },
+      {
+        "src": "images/optimized/reference/dentistry/stomatologicka-klinika-socialni-zazemi-umyvadla-toaleta-1600.webp",
+        "width": 1600,
+        "height": 899,
+        "bytes": 169848
+      }
+    ]
+  },
+  "images/reference/dentistry/technicke-zazemi-kliniky-rekonstrukce-04.JPG": {
+    "hash": "c12cadbb95f8643b6fc8d8bd23e296ffd408eafe1e60b23f76ab9df51aa0d14c",
+    "width": 1600,
+    "height": 899,
+    "originalBytes": 244287,
+    "variants": [
+      {
+        "src": "images/optimized/reference/dentistry/technicke-zazemi-kliniky-rekonstrukce-04-480.webp",
+        "width": 480,
+        "height": 269,
+        "bytes": 19982
+      },
+      {
+        "src": "images/optimized/reference/dentistry/technicke-zazemi-kliniky-rekonstrukce-04-960.webp",
+        "width": 960,
+        "height": 539,
+        "bytes": 62016
+      },
+      {
+        "src": "images/optimized/reference/dentistry/technicke-zazemi-kliniky-rekonstrukce-04-1600.webp",
+        "width": 1600,
+        "height": 899,
+        "bytes": 160926
+      }
+    ]
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-01.jpg": {
+    "hash": "9ced3193d35da6ca0f3a7a1e3c9a0e351ec682ddd32c2ce9e09fa2dbedaaad95",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 6392096,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-01-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 103622
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 401820
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-01-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1079302
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "3a4e708bff7b465d33865d3e81721830592efb3a9731454ab1ee30897e55e662",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 23636
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 54560
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 95762
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 221390
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-01-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 491708
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-03.jpg": {
+    "hash": "1e5736d4d5b2da8d9f3cf8eb1566258774c3b34f2c21777150f9d543d7961179",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 5208819,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-03-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 98918
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-03-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 353412
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-03-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 830740
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "009276c75c9a89dc749ea164125fd73ebd70e473e9b518afdeae44f566808c3e",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-03-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 27966
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-03-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 58306
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-03-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 96584
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-03-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 203918
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-03-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 423868
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-02.jpg": {
+    "hash": "f4886cce54455b54170f3ebe3fce5c9218ccb3dd583c2a210977ec47d7e3450f",
+    "width": 4624,
+    "height": 3468,
+    "originalBytes": 5044301,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-02-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 44600
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-02-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 159456
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-02-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 391094
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "daa2d611b83b5d12afd3dc0ae0e8c85c3ab6183635aed0585e8b49d644105d3a",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 22438
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 43964
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 75090
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-02-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 159456
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-02-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 314602
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-05.jpg": {
+    "hash": "07397e2a32f4423ef3b4f99507d01a8e7b2be4bd56a2b9e7cb41e3400c2161fe",
+    "width": 4624,
+    "height": 3468,
+    "originalBytes": 4921291,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-05-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 38806
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-05-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 127686
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-05-1600.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 321388
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "8148c3d22a0a89e398816ef828c8bfc3098fd8f364c5a2bdd105bc4fd4054fb5",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-05-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 20066
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-05-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 38762
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-05-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 65442
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-05-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 127686
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-05-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 256136
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-04.jpg": {
+    "hash": "190635ffe0bbcb81ef9674f66de94c68d3f4f3d08759f36133c81eec5e96343c",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 7975880,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-04-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 60264
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-04-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 172894
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-04-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 410918
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "29af85ae112a4efc1ec328efaf44ba9e9cc1cc4600af38f217e24d37d283d64f",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-04-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 18424
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-04-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 35952
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-04-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 54678
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-04-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 110790
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-04-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 197362
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-06.jpg": {
+    "hash": "61b34c0c2300fe7cc4dc142c28ebf4f3a20434422adbd48d70e32000b227fb0d",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 5011192,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-06-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 43646
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-06-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 186238
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-06-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 606214
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "e66d1908d44035002f4ebee8326d784ffec1a38306ca6ed7e0d73a92b7e7ca0e",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-06-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 11618
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-06-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 24528
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-06-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 44142
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-06-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 101802
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-06-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 249146
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-07.jpg": {
+    "hash": "c29057c86052477c0a587db9b641b1ad466b97c82df5567ebef81d76102d5b90",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 4886075,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-07-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 53996
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-07-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 193662
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-07-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 555164
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "138b390f1dbf7b35c776a06e1082112cc5dcf8f532d8b48d6b9c2ab3c5caab77",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-07-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16306
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-07-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 34286
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-07-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 57582
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-07-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 123292
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-07-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 273720
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-08.jpg": {
+    "hash": "c56a421930e2d1e0cab57ad103509e81132a99e7c72f9fcdc48c773df79e5ad9",
+    "width": 3468,
+    "height": 4624,
+    "originalBytes": 8431524,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-08-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 57278
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-08-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 196448
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-08-1600.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 475280
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "568364ff7721ea8ca04683443cf2f7284f1864409e328050044dbd1a4d0f9383",
+        "width": 1440,
+        "height": 1080,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-08-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 18352
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-08-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 36582
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-08-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 57200
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-08-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 120458
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-08-1440.webp",
+            "width": 1440,
+            "height": 1080,
+            "bytes": 259164
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/plan-montaz-trub-vody-a-topeni-09.jpg": {
+    "hash": "2a5c3639fdb1412cb8e05a9590cce3a61bc0ad04bfd17d89803cbcc04de1ad8f",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 259270,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-09-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 74028
+      },
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-09-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 274674
+      },
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-09-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 369074
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "73d9eb4f106df4af5853efae7328103b1cb2d074420bbe4aff7726ead9829447",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-09-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 23084
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-09-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 52958
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-09-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 93508
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-09-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 192144
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-09-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 276984
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/plan-montaz-trub-vody-a-topeni-10.jpg": {
+    "hash": "47c2f54c181eee3242911872c759a5234a90ebaa21f1defbb299ea4d80e784ce",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 186801,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-10-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 52098
+      },
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-10-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 173174
+      },
+      {
+        "src": "images/optimized/reference/pipes/plan-montaz-trub-vody-a-topeni-10-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 238956
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "71cbe13bf8baa21a33af69b6fc88ff46231ce3e81f3e897483acbab1cb7e3c67",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-10-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16542
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-10-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 34732
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-10-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 57364
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-10-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 113308
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/plan-montaz-trub-vody-a-topeni-10-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 162686
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-12.jpg": {
+    "hash": "560b0fbe0c7c80318b9c5fdf2f640b7774a556537ec6fa1e6f7c601b407aee2b",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 229647,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-12-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 120882
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-12-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 319386
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "e48d6fc3d490ae71518f4d7aaa925d00c388d0f66425a8781788029f71baf5c7",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-12-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 25492
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-12-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 51206
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-12-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 82916
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-12-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 143236
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-13.jpg": {
+    "hash": "6689a281c4da420e12dbebf68be962be885684a757a5fbfbc638b8aaa8d921a3",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 216691,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-13-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 113816
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-13-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 306514
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "d29bdf8342d4c3dda4c7cd81a65f5f7ee5f087284031951dacd9788a36c502ad",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-13-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 25030
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-13-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 51190
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-13-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 83158
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-13-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 146730
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-14.jpg": {
+    "hash": "ba7c1d62e5e3a2551ae85f17ec621269ebe549923f940ca6149d28622ecf821c",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 181268,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-14-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 99224
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-14-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 251984
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "f39ba53e3d942949786f672f0a80c7c3a062df16bc11d42469facaac232a534e",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-14-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 24892
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-14-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 51382
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-14-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 84226
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-14-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 141996
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-15.jpg": {
+    "hash": "afc73748684a54cca819b8cb55d716d8315f74243ad806f72e0f47f1406c111c",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 172519,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-15-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 96344
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-15-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 228102
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "b8b4a43f8daa3c164e336b331790def50ea4d7e4f65178fc4e13fd21c71b764e",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-15-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 23266
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-15-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 41734
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-15-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 62484
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-15-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 100042
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-16.jpg": {
+    "hash": "595365a2b2f62c793d4f5ebd3f0c30ee8a4794e22ccd821612326780de7afb12",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 230990,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-16-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 126246
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-16-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 325980
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "194a924eca7a06bcdb71b71efa48e799ae365a73ba6af6a8b7d2b54560f14015",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-16-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 31054
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-16-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 59214
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-16-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 95768
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-16-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 159622
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-17.jpg": {
+    "hash": "6dfb9026c6a641fb16af30387ede98813ef54943f6b0b07e6a6250187db7eb36",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 212774,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-17-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 126954
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-17-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 302828
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "5d9de901c2c05c5def6106d01d01962b5d6c0dcbf25e1384eb1323f26d02c0d4",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-17-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 26296
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-17-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 50756
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-17-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 76544
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-17-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 122890
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-18.jpg": {
+    "hash": "787ff00bb1e6708b2f0cb001141be022f007a8fa930085d79ecd094e62c9a2b2",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 158713,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-18-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 50422
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-18-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 149272
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-18-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 202572
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "1831b0b4879ac01442c11152dee24923ea5e8aca6c7696fdf28efde85c7f144c",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-18-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 19612
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-18-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 38592
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-18-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 59298
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-18-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 106872
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-18-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 140998
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-19.jpg": {
+    "hash": "4c608b685bef730f038c4cb54aa5677b8d921ac9d86b77071df8b8dde2d954ef",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 126284,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-19-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 31378
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-19-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 117900
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-19-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 167790
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "fbe60aa3005e475a066169ab6f66826f5ec64d5430431e52f46de7153e2f2c80",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-19-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 8684
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-19-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 16690
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-19-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 27926
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-19-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 60566
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-19-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 91422
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-20.jpg": {
+    "hash": "d26af31259b6144f41569672d462b63c536436bac298891d0ac648f2354dc4f8",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 259301,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-20-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 81286
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-20-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 258846
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-20-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 333234
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "3db61c8d466afab3b6fd3f771b85a695a6a4e11893f623e90218d213b0fb445f",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-20-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 22508
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-20-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 45886
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-20-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 74494
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-20-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 144790
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-20-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 206578
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/pipes/montaz-trub-vody-a-topeni-21.jpg": {
+    "hash": "a637c54b9ff885e9ca15b00d88ba756e49aaa12842b61094d259fe36d38469c1",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 134847,
+    "variants": [
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-21-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 44264
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-21-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 117396
+      },
+      {
+        "src": "images/optimized/reference/pipes/montaz-trub-vody-a-topeni-21-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 158948
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "c817fd7e02c0701779aa88601f80d2e59e9c1ea841545c65163dfc83a311c3be",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-21-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 15544
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-21-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 27662
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-21-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 40420
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-21-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 70066
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/pipes/montaz-trub-vody-a-topeni-21-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 94800
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01.jpg": {
+    "hash": "a0f623099ca51d285e70805aaf72e925bb8cf8397b15610d1221911d1f9b0666",
+    "width": 1600,
+    "height": 900,
+    "originalBytes": 93639,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 16368
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 45178
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 97216
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "4ea9b7c1e06f83bfbb2befd68d542dc0b33043ae9a74bc0c72fd7a9e2f02409a",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 11026
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 20104
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 31584
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 56174
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 75980
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01.jpg": {
+    "hash": "c6a48686d19e8649919c02d1a63c3929eea8c516d7c255ba9b907d74e65a0a96",
+    "width": 1600,
+    "height": 900,
+    "originalBytes": 106737,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 20326
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 63174
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 137192
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "a9e0e7b2770c77eeb5f86ac43594d603ef530e2aba577936ddf92746b30208c3",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 13884
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 26666
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 40752
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 79310
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-rozebrana-pred-rekonstrukci-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 109562
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02.jpg": {
+    "hash": "3229805690990b03f93abaa50dc783fcbcc869ab6f68d7ee9b6ef0bcff5b1b50",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 113165,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 51266
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 124990
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "fe63e2a3febca2190bdaddcffb297e2f0c7fc7657afed256d2cd8ae115aa5651",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 10534
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 20128
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 29280
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-polorozebrana-prubeh-rekonstrukce-02-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 50870
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-po-montazi-01.jpg": {
+    "hash": "1b68cee113370970dbed930a3876d47bfebb83c5e6464c507f5063cfe66d3321",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 94254,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-po-montazi-01-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 43938
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-po-montazi-01-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 109012
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "7f1dbc25252b38f5be7a7d5b367c750684eec91acbcb04b83bff236ff6e333af",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 12816
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 22724
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 32866
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-01-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 53100
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-po-montazi-02.jpg": {
+    "hash": "3838566c777ab551c53eb96358ee625a05677b44ea0c9e6fe9dcba4f967a73da",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 84617,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-po-montazi-02-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 41170
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-po-montazi-02-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 93152
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "1a0126af11464a3d12080d7089ff68907645015e3188450b0a98bd40e69daa18",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 9354
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 16406
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 24122
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-po-montazi-02-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 36778
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-nove-skrinky-01.jpg": {
+    "hash": "aeeb78c1a54b83011e50cda06c1c2aa59b84ed1cb9cebf9c8e71eaafb5be8fe9",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 101795,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 48662
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 112168
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "c5dabbf1744604f4800adbbbd8c52579d6e013f212f45b443d936aa2c94cb337",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 13872
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 25640
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 37472
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-nove-skrinky-01-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 58796
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01.jpg": {
+    "hash": "74cade599b87308b9088f56ac189f7bc33631d80fe066f198ba739b1ba82b40d",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 171804,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 61832
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 158674
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 208868
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "42915c3cea7580d8bf36e9d48f00674aadecce3a5be3ea93477a5a73786a7e89",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 19418
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 37794
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 55712
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 95338
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-v-kuchyni-pri-montazi-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 132380
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01.jpg": {
+    "hash": "ec6fe7e5080f17a4f030474bc612aba58bcee7941a0603f4550e230752c6e1a7",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 214627,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 75226
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 243782
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 289878
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "443205bc9fc33b22d3fedcaba2e26089213a19a63ed5badf7afb96a65fef033e",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 22906
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 49158
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 81980
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 160588
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kocka-pomaha-pri-stavbe-kuchyne-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 218578
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02.jpg": {
+    "hash": "862ed4511fdc2de5487eabc8cc777ac9be588fd97db9aa6b026e2e2e9531be4e",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 130231,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 60994
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 156822
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "50037ee914b4544c97873ed6d68e8cfc5edf875780419a540a86aaaedef0db8d",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 14360
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 30166
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 46972
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-02-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 81364
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-pracovni-deska-01.jpg": {
+    "hash": "afd8f6a8d5d6f2e4535f7396f3a8dc8ed2a065b25cddcbd4fc53fb5f7b082fb6",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 161953,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 77616
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 205700
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "0c52c38846357284070a8ce082058002f3e5b88dd61b0aab09048ddf8834ec34",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 18858
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 37816
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 58760
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-pracovni-deska-01-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 98632
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01.jpg": {
+    "hash": "76def829aa4efe6dec36ec473b8a6ed1a826137558b68aa4c7476b2f099308e7",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 132344,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 61714
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 154336
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "92d642ffe3ed46c86d6d447bca215e86a1d5b920ce5c9d1037cf8504e07d5091",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16350
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 31328
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 51010
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-detail-kuchynske-linky-01-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 82528
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01.jpg": {
+    "hash": "224105da2c7b0557353c668c22f754c3f0455eb82dbbde39d5e7fbc06c51308e",
+    "width": 900,
+    "height": 1600,
+    "originalBytes": 129189,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-480.webp",
+        "width": 480,
+        "height": 853,
+        "bytes": 63648
+      },
+      {
+        "src": "images/optimized/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-900.webp",
+        "width": 900,
+        "height": 1600,
+        "bytes": 158952
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "0bd5e7c437b53714512f63b586b0e7c213883954fbe72567fcc16efa42cab259",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 15222
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 29750
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 46292
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchens/kuchyne-sestavena-hotova-kuchynska-linka-01-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 77774
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchen-bathroom/rekonstrukce-kuchyne-01.jpg": {
+    "hash": "e3bc349325348e5b8648783453020d867a400cfb5d3f9e4a9131040f8a5e05a0",
+    "width": 1280,
+    "height": 960,
+    "originalBytes": 97581,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-480.webp",
+        "width": 480,
+        "height": 360,
+        "bytes": 21038
+      },
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 57144
+      },
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-1280.webp",
+        "width": 1280,
+        "height": 960,
+        "bytes": 83688
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "5a1df08d0b36c01b0d287eae70485e999d959627a33d660e263084e2ac871afc",
+        "width": 1280,
+        "height": 960,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 11056
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 21038
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 32114
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 57144
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-01-1280.webp",
+            "width": 1280,
+            "height": 960,
+            "bytes": 83688
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchen-bathroom/rekonstrukce-kuchyne-02.jpg": {
+    "hash": "142e041679a5595b65bd21be63aa594da07e162c8a0b4cbafe0b5b00751e5a8e",
+    "width": 960,
+    "height": 1280,
+    "originalBytes": 175794,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 62336
+      },
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 194430
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "73450b70ef58861d67066a22820814d65145c03680db023110a05679924be878",
+        "width": 960,
+        "height": 720,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 13754
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 28594
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 42588
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-kuchyne-02-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 84194
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05.jpg": {
+    "hash": "4ca5789b5cc96f5aa7355da4be816147ab022ab6389d62a9b8aa0ed2bc81a93e",
+    "width": 960,
+    "height": 1280,
+    "originalBytes": 167158,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 58776
+      },
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 156406
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "5065aed12619060b1aaadeb923c12e7292a2a014b285830b1b16cd5d010cfd69",
+        "width": 960,
+        "height": 720,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16528
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 34268
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 49702
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-umyvadlo-05-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 91434
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04.jpg": {
+    "hash": "e723f748ec6b1d625a44cf4b63dbcad182508543e90b362a93d7e7b032bd437a",
+    "width": 960,
+    "height": 1280,
+    "originalBytes": 207197,
+    "variants": [
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 75916
+      },
+      {
+        "src": "images/optimized/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 207946
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "0f503fa8a683d73e48b0821b173230071547efe9dac5912798893e509b69c614",
+        "width": 960,
+        "height": 720,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 21612
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 45960
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 69890
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/kitchen-bathroom/rekonstrukce-koupelny-vana-04-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 125302
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/modra-designova-stena-prubeh-praci-01.jpg": {
+    "hash": "58fce4e8bdafd57a5296f84030aef7afa9a52f3e537726fb83b0bc30f4695674",
+    "width": 1536,
+    "height": 900,
+    "originalBytes": 138905,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-prubeh-praci-01-480.webp",
+        "width": 480,
+        "height": 281,
+        "bytes": 32208
+      },
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-prubeh-praci-01-960.webp",
+        "width": 960,
+        "height": 563,
+        "bytes": 102434
+      },
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-prubeh-praci-01-1536.webp",
+        "width": 1536,
+        "height": 900,
+        "bytes": 182130
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "c27b58a96dba8a8150a99b9e2e3e9f2c252c0d2adedf43fbbaba8f48feb05e4a",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-prubeh-praci-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16982
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-prubeh-praci-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 32458
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-prubeh-praci-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 48334
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-prubeh-praci-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 90588
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-prubeh-praci-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 118436
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/modra-designova-stena-hotovo-02.jpg": {
+    "hash": "8674a3d1af94043d743d0b33398b60dd8441f1415aea9b2637bfa5cde8d1605b",
+    "width": 1536,
+    "height": 900,
+    "originalBytes": 148533,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-hotovo-02-480.webp",
+        "width": 480,
+        "height": 281,
+        "bytes": 18666
+      },
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-hotovo-02-960.webp",
+        "width": 960,
+        "height": 563,
+        "bytes": 70116
+      },
+      {
+        "src": "images/optimized/reference/design/modra-designova-stena-hotovo-02-1536.webp",
+        "width": 1536,
+        "height": 900,
+        "bytes": 179444
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "e4c5c7a9ddd72f1a4b4388cfedaee50c2603d41bbff11d46ce323b876ccb2038",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-hotovo-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 11914
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-hotovo-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 23794
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-hotovo-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 38548
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-hotovo-02-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 94442
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/modra-designova-stena-hotovo-02-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 140174
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03.jpg": {
+    "hash": "5d5b19c4be6a02b32e70b7723f09e022e2de65682dbebf62beb8513b4c82658a",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 219629,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 55442
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 213864
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 322726
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "923b0f63fd1849baa58807fbed173bb5e003ca05a9d90f5624ba4dace4875cba",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 17366
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 40850
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 73438
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 167320
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-zacatek-praci-03-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 264680
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04.jpg": {
+    "hash": "1ec8337bee452f045f020fb1bee0beb9415c68f8474bb19a6f72e548bb5776ea",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 333271,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 87464
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 358802
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 522430
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "e9ca19c8b413617f87d764995f679987908b1b8a1aa93850710f14e363e45046",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 24782
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 58078
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 105938
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 236222
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-prubeh-praci-04-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 372044
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05.jpg": {
+    "hash": "8cc96b71b0da712a201d49558b4e7fe5454c6eee103986843e3703bb68555908",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 342606,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 95906
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 372584
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 534586
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "c9ba374e956c5d8a9a3b8ba41b3c69181319be67a9822e9116641a15f5621e67",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 21400
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 49658
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 88084
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 192836
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-namontovana-svetla-05-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 301310
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/design/designova-stena-s-podsvicenim-hotovo-06.jpg": {
+    "hash": "6f8e930eb85723f99f24b4bfb9772c1886efdbc1a39cd290ad28640fab635cd0",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 390863,
+    "variants": [
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-hotovo-06-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 104346
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-hotovo-06-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 410540
+      },
+      {
+        "src": "images/optimized/reference/design/designova-stena-s-podsvicenim-hotovo-06-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 602262
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "aff44d2966516a892b0ee805a8f166670eafa23c8f5db9b787371faa3bee7b6b",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-hotovo-06-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 25114
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-hotovo-06-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 57732
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-hotovo-06-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 103390
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-hotovo-06-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 230076
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/design/designova-stena-s-podsvicenim-hotovo-06-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 359222
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/elektrostaticka-podlaha-penetrace-01.jpg": {
+    "hash": "b41afad56eaa6bb4c7683c7adc91d053d939b27746b8e5f07949758741f6f5ac",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 130666,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-penetrace-01-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 45418
+      },
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-penetrace-01-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 123220
+      },
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-penetrace-01-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 160062
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "f9d9d339ba91c1f0a1ac6a81169c2c5dae6482ab23faa3fb9e152ff3e2c28ba9",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-penetrace-01-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 17904
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-penetrace-01-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 31454
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-penetrace-01-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 47168
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-penetrace-01-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 82338
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-penetrace-01-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 113760
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02.jpg": {
+    "hash": "b868191d8cd77f9ff9458660de0d73fac0cb3ee21fa37872b4ed508a6270c3aa",
+    "width": 900,
+    "height": 1200,
+    "originalBytes": 70080,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 33756
+      },
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-900.webp",
+        "width": 900,
+        "height": 1200,
+        "bytes": 80894
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "7919f3a50ef780f8ca4a15fda0974ebcbdbf81f40526375af328cff5097e1ced",
+        "width": 900,
+        "height": 675,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 12594
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 23194
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 34684
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-nalepene-pasky-02-900.webp",
+            "width": 900,
+            "height": 675,
+            "bytes": 53632
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03.jpg": {
+    "hash": "7b137db553ecc534e72d5e8e826a3c2c4729037eb321566ddb031bbc8942b628",
+    "width": 1599,
+    "height": 899,
+    "originalBytes": 109822,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 34420
+      },
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 114818
+      },
+      {
+        "src": "images/optimized/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-1599.webp",
+        "width": 1599,
+        "height": 899,
+        "bytes": 207832
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "52a745f45fc7c8df13a56af6975b6ee29dcf5297c76792ececb95f85208547e6",
+        "width": 1198,
+        "height": 899,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 20826
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 43234
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 70232
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 134648
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/elektrostaticka-podlaha-hotovy-podklad-03-1198.webp",
+            "width": 1198,
+            "height": 899,
+            "bytes": 176712
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04.jpg": {
+    "hash": "4f686c415ea0c42ae00dec574cff841819a0ab22805733bb705606f4d5e28692",
+    "width": 1599,
+    "height": 899,
+    "originalBytes": 184839,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 35368
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 129126
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-1599.webp",
+        "width": 1599,
+        "height": 899,
+        "bytes": 269466
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "5de5cd1dbbc8ce69fa8fb7bd8ab87774898b5a116e2a80c04679976e1e8cccc5",
+        "width": 1198,
+        "height": 899,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 21178
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 48850
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 82732
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 165642
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-04-1198.webp",
+            "width": 1198,
+            "height": 899,
+            "bytes": 229310
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05.jpg": {
+    "hash": "33e6ff1e8a4b9a0277dcb375ec3234f354a1f1e105bb710bd52c5af291d35da1",
+    "width": 899,
+    "height": 1599,
+    "originalBytes": 176343,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-480.webp",
+        "width": 480,
+        "height": 854,
+        "bytes": 94916
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-899.webp",
+        "width": 899,
+        "height": 1599,
+        "bytes": 245308
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "673af0eb2ebec664d480595b7f7a249c0b805f711b504636bcbf22088d325cd7",
+        "width": 899,
+        "height": 674,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 16386
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 34882
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 57982
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-prubeh-05-899.webp",
+            "width": 899,
+            "height": 674,
+            "bytes": 97800
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06.jpg": {
+    "hash": "894596a7a23db009484f6a2a501144964af01596bc8687c10cc53144bcf1ffee",
+    "width": 899,
+    "height": 1599,
+    "originalBytes": 384121,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-480.webp",
+        "width": 480,
+        "height": 854,
+        "bytes": 223972
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-899.webp",
+        "width": 899,
+        "height": 1599,
+        "bytes": 589968
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "7579eeaa61afa5913eaa5a1683ef9de5d1d67d6ab5433b631cc0ec6fb1120953",
+        "width": 899,
+        "height": 674,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 46248
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 98468
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 162092
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-06-899.webp",
+            "width": 899,
+            "height": 674,
+            "bytes": 271690
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07.jpg": {
+    "hash": "a8d042b6073b2958a44f3daa8a11c703ee7eba26b96b42708ce76a7f7ae1464d",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 476076,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 153096
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 547614
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 772354
+      }
+    ],
+    "previews": {
+      "gallery": {
+        "hash": "c7ae55b856e189d5ab8619ea24d8f781416c642218e2a8971eb4a470928a9193",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 45798
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 103310
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 177024
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 370226
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-07-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 532882
+          }
+        ]
+      }
+    }
+  },
+  "images/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08.jpg": {
+    "hash": "3c13a7ed0fa775ce6420b7eb6e2079b8168fc4509ac7936a72c0d6902568a955",
+    "width": 1200,
+    "height": 1600,
+    "originalBytes": 263024,
+    "variants": [
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-480.webp",
+        "width": 480,
+        "height": 640,
+        "bytes": 71682
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-960.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 267162
+      },
+      {
+        "src": "images/optimized/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-1200.webp",
+        "width": 1200,
+        "height": 1600,
+        "bytes": 387654
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "e716facc897222fcd129dcdbec9d94e4857b742fc615b701dade1fe33bc3cd92",
+        "width": 1200,
+        "height": 750,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 7152
+          },
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 14900
+          },
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 24650
+          },
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 51878
+          },
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 104914
+          },
+          {
+            "src": "images/optimized/previews/service/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-1200.webp",
+            "width": 1200,
+            "height": 750,
+            "bytes": 122656
+          }
+        ]
+      },
+      "gallery": {
+        "hash": "bb839e7466b8a32da6040a9a8a5a09cebb002c5139e849c2f95ac387d35f0995",
+        "width": 1200,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-320.webp",
+            "width": 320,
+            "height": 240,
+            "bytes": 14674
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-480.webp",
+            "width": 480,
+            "height": 360,
+            "bytes": 32218
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-640.webp",
+            "width": 640,
+            "height": 480,
+            "bytes": 55028
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-960.webp",
+            "width": 960,
+            "height": 720,
+            "bytes": 114230
+          },
+          {
+            "src": "images/optimized/previews/gallery/reference/floors/vinylova-plovouci-podlaha-na-elektrostatice-hotovo-08-1200.webp",
+            "width": 1200,
+            "height": 900,
+            "bytes": 169440
+          }
+        ]
+      }
+    }
+  },
+  "images/architect.jpg": {
+    "hash": "01e3676fb945b433a3fa05ec4ec617f348a52ced3868d1a1e98a88a9dbdeaf70",
+    "width": 1920,
+    "height": 1278,
+    "originalBytes": 224034,
+    "variants": [
+      {
+        "src": "images/optimized/architect-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 38822
+      },
+      {
+        "src": "images/optimized/architect-960.webp",
+        "width": 960,
+        "height": 639,
+        "bytes": 123660
+      },
+      {
+        "src": "images/optimized/architect-1600.webp",
+        "width": 1600,
+        "height": 1065,
+        "bytes": 246616
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "f1eb18a7dba334798eac02d5187ccb953b7d3c1b58d0d6dd8fe388430519f892",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/architect-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 12434
+          },
+          {
+            "src": "images/optimized/previews/service/architect-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 23290
+          },
+          {
+            "src": "images/optimized/previews/service/architect-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 36426
+          },
+          {
+            "src": "images/optimized/previews/service/architect-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 71182
+          },
+          {
+            "src": "images/optimized/previews/service/architect-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 126112
+          },
+          {
+            "src": "images/optimized/previews/service/architect-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 198206
+          }
+        ]
+      }
+    }
+  },
+  "images/living-room.jpg": {
+    "hash": "bfb11bb689d66213724664d09749245bc082358ff64285c8b4b6dca209b224bc",
+    "width": 1920,
+    "height": 1280,
+    "originalBytes": 200713,
+    "variants": [
+      {
+        "src": "images/optimized/living-room-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 27056
+      },
+      {
+        "src": "images/optimized/living-room-800.webp",
+        "width": 800,
+        "height": 533,
+        "bytes": 61204
+      },
+      {
+        "src": "images/optimized/living-room-1200.webp",
+        "width": 1200,
+        "height": 800,
+        "bytes": 133634
+      },
+      {
+        "src": "images/optimized/living-room-1600.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 215802
+      },
+      {
+        "src": "images/optimized/living-room-1920.webp",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 279468
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "7112f69ce2cfbb3e3a27f55e36cfaa39c199eabba845346d7dbfc87e017867fc",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/living-room-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 8830
+          },
+          {
+            "src": "images/optimized/previews/service/living-room-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 16586
+          },
+          {
+            "src": "images/optimized/previews/service/living-room-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 26086
+          },
+          {
+            "src": "images/optimized/previews/service/living-room-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 49822
+          },
+          {
+            "src": "images/optimized/previews/service/living-room-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 104318
+          },
+          {
+            "src": "images/optimized/previews/service/living-room-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 179016
+          }
+        ]
+      }
+    }
+  },
+  "images/dentist-2530983_1920-1.jpg": {
+    "hash": "3b522011c349257553439343d1113af9747bd829e41145df8eb5681e298a85d2",
+    "width": 1920,
+    "height": 1275,
+    "originalBytes": 117297,
+    "variants": [
+      {
+        "src": "images/optimized/dentist-2530983_1920-1-480.webp",
+        "width": 480,
+        "height": 319,
+        "bytes": 19784
+      },
+      {
+        "src": "images/optimized/dentist-2530983_1920-1-960.webp",
+        "width": 960,
+        "height": 638,
+        "bytes": 58406
+      },
+      {
+        "src": "images/optimized/dentist-2530983_1920-1-1600.webp",
+        "width": 1600,
+        "height": 1063,
+        "bytes": 121782
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "9abf35f9b4032460dfae0a88f09d5a20b6accadfb4ac902f55fd7bd155d94b49",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 7072
+          },
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 12342
+          },
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 18606
+          },
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 34074
+          },
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 62676
+          },
+          {
+            "src": "images/optimized/previews/service/dentist-2530983_1920-1-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 99350
+          }
+        ]
+      }
+    }
+  },
+  "images/tap.jpg": {
+    "hash": "c739f9782f8af33d88fcd35fce3addc09df22337617f89c3343dc01034199455",
+    "width": 2000,
+    "height": 1333,
+    "originalBytes": 170288,
+    "variants": [
+      {
+        "src": "images/optimized/tap-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 31770
+      },
+      {
+        "src": "images/optimized/tap-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 80322
+      },
+      {
+        "src": "images/optimized/tap-1600.webp",
+        "width": 1600,
+        "height": 1066,
+        "bytes": 151040
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "bc5f36d64e1e4d63f705fb0374f6374c998c5ee0e8304ee1de307a1044f9d45b",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/tap-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 12048
+          },
+          {
+            "src": "images/optimized/previews/service/tap-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 20456
+          },
+          {
+            "src": "images/optimized/previews/service/tap-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 29716
+          },
+          {
+            "src": "images/optimized/previews/service/tap-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 52274
+          },
+          {
+            "src": "images/optimized/previews/service/tap-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 88440
+          },
+          {
+            "src": "images/optimized/previews/service/tap-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 124418
+          }
+        ]
+      }
+    }
+  },
+  "images/service-maintenance-worker.jpg": {
+    "hash": "d459837fc29730c4ad4d07b5757d436a5d10b7127473437045c72279403ce4fe",
+    "width": 3560,
+    "height": 2820,
+    "originalBytes": 694065,
+    "variants": [
+      {
+        "src": "images/optimized/service-maintenance-worker-480.webp",
+        "width": 480,
+        "height": 380,
+        "bytes": 35858
+      },
+      {
+        "src": "images/optimized/service-maintenance-worker-960.webp",
+        "width": 960,
+        "height": 760,
+        "bytes": 120016
+      },
+      {
+        "src": "images/optimized/service-maintenance-worker-1600.webp",
+        "width": 1600,
+        "height": 1267,
+        "bytes": 317570
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "2a538959b2bf4eaa49cb0995f359c6f0b2fc792fd28e351f88c471509056eb08",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 8936
+          },
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 17744
+          },
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 31150
+          },
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 61272
+          },
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 129070
+          },
+          {
+            "src": "images/optimized/previews/service/service-maintenance-worker-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 224204
+          }
+        ]
+      }
+    }
+  },
+  "images/kitchen.jpg": {
+    "hash": "08cd0baff1a560936203523360ecf5ea02f3045b514c47697741609190fc038e",
+    "width": 1920,
+    "height": 1102,
+    "originalBytes": 138983,
+    "variants": [
+      {
+        "src": "images/optimized/kitchen-480.webp",
+        "width": 480,
+        "height": 276,
+        "bytes": 22970
+      },
+      {
+        "src": "images/optimized/kitchen-960.webp",
+        "width": 960,
+        "height": 551,
+        "bytes": 74350
+      },
+      {
+        "src": "images/optimized/kitchen-1600.webp",
+        "width": 1600,
+        "height": 918,
+        "bytes": 148578
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "c409726157c90029f4d34cefb450642d13e6d1e897b31a9d2395f3571f85e631",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/kitchen-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 8694
+          },
+          {
+            "src": "images/optimized/previews/service/kitchen-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 16204
+          },
+          {
+            "src": "images/optimized/previews/service/kitchen-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 24390
+          },
+          {
+            "src": "images/optimized/previews/service/kitchen-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 44044
+          },
+          {
+            "src": "images/optimized/previews/service/kitchen-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 86490
+          },
+          {
+            "src": "images/optimized/previews/service/kitchen-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 135126
+          }
+        ]
+      }
+    }
+  },
+  "images/stone.jpg": {
+    "hash": "a59bb290d2a227d8943c2d92485bbc4755da8a5b09c9e2cfe950d94ae6575924",
+    "width": 1920,
+    "height": 1280,
+    "originalBytes": 301805,
+    "variants": [
+      {
+        "src": "images/optimized/stone-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 54622
+      },
+      {
+        "src": "images/optimized/stone-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 178244
+      },
+      {
+        "src": "images/optimized/stone-1600.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 379148
+      }
+    ],
+    "previews": {
+      "service": {
+        "hash": "fe020e63c52777008fdeeffe24ce85d6924c0aad0e217766f9626aa1513ea550",
+        "width": 1440,
+        "height": 900,
+        "variants": [
+          {
+            "src": "images/optimized/previews/service/stone-240.webp",
+            "width": 240,
+            "height": 150,
+            "bytes": 16726
+          },
+          {
+            "src": "images/optimized/previews/service/stone-360.webp",
+            "width": 360,
+            "height": 225,
+            "bytes": 32340
+          },
+          {
+            "src": "images/optimized/previews/service/stone-480.webp",
+            "width": 480,
+            "height": 300,
+            "bytes": 52188
+          },
+          {
+            "src": "images/optimized/previews/service/stone-720.webp",
+            "width": 720,
+            "height": 450,
+            "bytes": 104552
+          },
+          {
+            "src": "images/optimized/previews/service/stone-1080.webp",
+            "width": 1080,
+            "height": 675,
+            "bytes": 204614
+          },
+          {
+            "src": "images/optimized/previews/service/stone-1440.webp",
+            "width": 1440,
+            "height": 900,
+            "bytes": 332048
+          }
+        ]
+      }
+    }
+  },
+  "images/worker.jpg": {
+    "hash": "4ebdfc6b05bd094c04601132117fae8834f65a2e6c179ee37fd3391fa4b320b3",
+    "width": 1920,
+    "height": 1280,
+    "originalBytes": 479967,
+    "variants": [
+      {
+        "src": "images/optimized/worker-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 40194
+      },
+      {
+        "src": "images/optimized/worker-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 125026
+      },
+      {
+        "src": "images/optimized/worker-1600.webp",
+        "width": 1600,
+        "height": 1067,
+        "bytes": 258258
+      }
+    ]
+  },
+  "images/bg.png": {
+    "hash": "2803394d46dcd85a335f7177db3d4a88f8c186873bdb7d997ec13f7d4456c6f2",
+    "width": 1920,
+    "height": 1080,
+    "originalBytes": 829523,
+    "variants": [
+      {
+        "src": "images/optimized/bg-480.webp",
+        "width": 480,
+        "height": 270,
+        "bytes": 36548
+      },
+      {
+        "src": "images/optimized/bg-960.webp",
+        "width": 960,
+        "height": 540,
+        "bytes": 94720
+      },
+      {
+        "src": "images/optimized/bg-1600.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 227212
+      }
+    ]
+  },
+  "logo/logo.png": {
+    "hash": "e06ae442893bcb00c59e77e7b71cd3816e4a99f3a49449e39d12578a0008990a",
+    "width": 690,
+    "height": 620,
+    "originalBytes": 160269,
+    "variants": [
+      {
+        "src": "images/optimized/logo-80.webp",
+        "width": 80,
+        "height": 72,
+        "bytes": 6084
+      },
+      {
+        "src": "images/optimized/logo-160.webp",
+        "width": 160,
+        "height": 144,
+        "bytes": 13270
+      },
+      {
+        "src": "images/optimized/logo-320.webp",
+        "width": 320,
+        "height": 288,
+        "bytes": 29842
+      }
+    ]
+  }
+}
