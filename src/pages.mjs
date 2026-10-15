@@ -51,21 +51,22 @@ export function renderSite({ projects, images, version }) {
     const fallback = item.variants.find(variant => variant.width >= 800) ?? item.variants.at(-1);
     return `<img src="${fallback.src}" srcset="${item.variants.map(variant => `${variant.src} ${variant.width}w`).join(', ')}" sizes="${sizes}" width="${fallback.width}" height="${fallback.height}" alt="${escape(alt)}" loading="${eager ? 'eager' : 'lazy'}" decoding="async"${eager ? ' fetchpriority="high"' : ''}${className ? ` class="${className}"` : ''}>`;
   }
-  const navLinks = [['index.html', 'Služby'], ['reference.html', 'Naše práce'], ['kariera.html', 'Kariéra'], ['kontakty.html', 'Kontakty']];
+  const navLinks = [['/', 'Služby'], ['reference.html', 'Naše práce'], ['kariera.html', 'Kariéra'], ['kontakty.html', 'Kontakty']];
   function header(page) {
+    const currentHref = page === 'index.html' ? '/' : page;
     return `<a class="skip-link" href="#main">Přejít na obsah</a>
 <header class="site-header">
   <div class="container header-inner">
-    <a class="brand" href="index.html">${img('logo/logo.png', '', { sizes: '(max-width: 380px) 80px, 107px', eager: true })}<span>THE BEST HOME</span></a>
-    <nav class="desktop-nav" aria-label="Hlavní navigace">${navLinks.map(([href, label]) => `<a href="${href}"${page === href ? ' aria-current="page"' : ''}>${label}</a>`).join('')}</nav>
+    <a class="brand" href="/">${img('logo/logo.png', '', { sizes: '(max-width: 380px) 80px, 107px', eager: true })}<span>THE BEST HOME</span></a>
+    <nav class="desktop-nav" aria-label="Hlavní navigace">${navLinks.map(([href, label]) => `<a href="${href}"${currentHref === href ? ' aria-current="page"' : ''}>${label}</a>`).join('')}</nav>
     <a class="button button-small header-cta" href="kontakty.html#kontakt">Napište nám ${arrow}</a>
-    <details class="mobile-menu"><summary>Menu <span aria-hidden="true">☰</span></summary><nav aria-label="Mobilní navigace">${navLinks.map(([href, label]) => `<a href="${href}"${page === href ? ' aria-current="page"' : ''}>${label}</a>`).join('')}</nav></details>
+    <details class="mobile-menu"><summary>Menu <span aria-hidden="true">☰</span></summary><nav aria-label="Mobilní navigace">${navLinks.map(([href, label]) => `<a href="${href}"${currentHref === href ? ' aria-current="page"' : ''}>${label}</a>`).join('')}</nav></details>
   </div>
 </header>`;
   }
   const footer = `<footer class="site-footer">
   <div class="container footer-grid">
-    <div><a class="footer-brand" href="index.html">THE BEST HOME<span aria-hidden="true">.</span></a><p>Od prvního plánu po poslední detail.<br>Výstavba, rekonstrukce a interiéry.</p><a class="footer-social" href="https://www.facebook.com/profile.php?id=61584567283955" target="_blank" rel="noopener noreferrer">Najdete nás i na Facebooku ${arrow}</a></div>
+    <div><a class="footer-brand" href="/">THE BEST HOME<span aria-hidden="true">.</span></a><p>Od prvního plánu po poslední detail.<br>Výstavba, rekonstrukce a interiéry.</p><a class="footer-social" href="https://www.facebook.com/profile.php?id=61584567283955" target="_blank" rel="noopener noreferrer">Najdete nás i na Facebooku ${arrow}</a></div>
     <div><h2>Ozvěte se nám</h2><a class="footer-phone" href="${phoneHref}">${phone}</a><a href="tel:+420777006335">+420 777 006 335</a><a href="mailto:${email}">${email}</a><p>Po–Pá · 9:00–18:00</p></div>
     <div><h2>The Best Home s.r.o.</h2><p>Pražská 298/59<br>250 01 Brandýs nad Labem<br>IČO: 22383964</p><a href="https://www.google.com/maps/dir/?api=1&amp;destination=The%20Best%20Home%20s.r.o.%2C%20Pra%C5%BEsk%C3%A1%20298%2F59%2C%20250%2001%20Brand%C3%BDs%20nad%20Labem-St%C3%A1r%C3%A1%20Boleslav%2C%20Czechia" target="_blank" rel="noopener noreferrer">Jak se k nám dostanete ${arrow}</a></div>
   </div>
@@ -193,7 +194,7 @@ ${cta()}`;
   for (const service of services) {
     const content = `
 <section class="page-intro"><div class="container">
-  <nav class="breadcrumbs" aria-label="Drobečková navigace"><a href="index.html#sluzby">Služby</a><span aria-hidden="true">/</span><span aria-current="page">${escape(service.title)}</span></nav>
+  <nav class="breadcrumbs" aria-label="Drobečková navigace"><a href="/#sluzby">Služby</a><span aria-hidden="true">/</span><span aria-current="page">${escape(service.title)}</span></nav>
   <p class="eyebrow">PRAHA A STŘEDOČESKÝ KRAJ</p>
   <h1>${escape(service.title)}</h1>
   <div class="intro-bottom"><p>${escape(service.description)}</p><a class="button" href="kontakty.html#kontakt">Probrat zakázku ${arrow}</a></div>

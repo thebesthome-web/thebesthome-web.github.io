@@ -300,7 +300,7 @@ dialog::backdrop { background: #131913e8; }
   .desktop-nav { display: none; }
   .mobile-menu { display: block; }
   .mobile-menu > summary { font-size: 0; padding: 12px; min-width: 44px; min-height: 44px; list-style: none; display: flex; align-items: center; justify-content: center; }
-  .mobile-menu > summary > span { font-size: 24px; line-height: 1; color: #b4af08; }
+  .mobile-menu > summary > span { font-size: 24px; line-height: 1; color: var(--accent-dark); }
   .mobile-menu > summary::-webkit-details-marker { display: none; }
   .mobile-menu > nav { position: absolute; top: 100%; left: 0; right: 0; padding: 14px 20px 24px; background: white; border-bottom: 1px solid var(--line); box-shadow: 0 14px 20px #20272312; }
   .mobile-menu nav a { display: block; padding: 13px 4px; border-bottom: 1px solid var(--line); font-size: 14px; }
